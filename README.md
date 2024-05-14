@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mis redes:
-![image](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/119663a6-4515-4109-90f6-d31dfeba62fc)
+[![image](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/119663a6-4515-4109-90f6-d31dfeba62fc)](https://iconos8.es/icon/13930/linkedin)
