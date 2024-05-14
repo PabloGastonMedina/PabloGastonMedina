@@ -2,7 +2,7 @@
 
 ---
 
-###Sobre mi: Soy desarrollador Web Full Stack, actualmente estudiando Desarrollo Web Full-Stack Phyton en codo a codo.
+**Sobre mi**: Soy desarrollador Web Full Stack, actualmente estudiando Desarrollo Web Full-Stack Phyton en codo a codo.
 <!--
 Here are some ideas to get you started:
 
