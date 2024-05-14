@@ -12,6 +12,8 @@
 ![Vue](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/5230a570-3e6c-4431-bc3c-e8ad7f635253) ![icon_sql_256_30046](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/ad729a3f-6c95-49dd-bcd4-c4c89132606f) ![python_18894](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/e22de662-6d22-4233-93c6-a1507cc19433)
  ![git-hub](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/ac91a148-d970-4a74-bd11-60c81c0dc35f)
 
+ [Linkedin](www.linkedin.com/in/pablo-gastón-medina)
+
 
 
 
