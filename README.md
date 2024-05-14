@@ -2,7 +2,8 @@
 
 ---
 
-**Sobre mi**: Soy desarrollador Web Full Stack, actualmente estudiando Desarrollo Web Full-Stack Phyton en codo a codo.
+**Sobre mi**: Actualmente estudiando Desarrollo Web Full-Stack Phyton en codo a codo.
+
 <!--
 Here are some ideas to get you started:
 
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mis redes:
-[Linkedin](www.linkedin.com/in/pablo-gastón-medina)
+![image](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/119663a6-4515-4109-90f6-d31dfeba62fc)
