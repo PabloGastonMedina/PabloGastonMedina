@@ -1,6 +1,7 @@
 ## Hola, soy Pablo 👋
 
 ---
+![img icons8](https://github.com/PabloGastonMedina/PabloGastonMedina/assets/99515825/f018231d-7c99-4ae3-adde-faa8c1d4e2d6)
 
 **Sobre mi**: Actualmente estudiando Desarrollo Web Full-Stack Phyton en codo a codo.
 
